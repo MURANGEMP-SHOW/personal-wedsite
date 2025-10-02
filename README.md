@@ -16,5 +16,7 @@ colors = [ 'ginger']
 <line/img height by 5></line/img height by 5>
 <right-leg> </right-leg>
 <body></body>
+<wolf-tail> </wolf-tail>
+colors = ['blonde']
 <line/img width by 4></line/img width by 4>
 <line/img height by 6></line/img height by 6>
