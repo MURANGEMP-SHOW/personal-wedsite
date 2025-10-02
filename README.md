@@ -4,7 +4,7 @@ print ("Hello! Welcome to the show!")
 
 <eyes> </eyes>
 colors = ['green' , 'blue']
-<font hair> </font hair>
+<font-hair> </font-hair>
 colors = [ 'ginger']
 <head> </head>
 <h1> </h1>
