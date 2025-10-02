@@ -1,7 +1,6 @@
 # personal-wedsite
-print ("Hello! Welcome to the show!")
+print ["Hello! Welcome to the show!"] <b> </b>
 <html>
-
 <eyes> </eyes>
 colors = ['green' , 'blue']
 <font-hair> </font-hair>
@@ -20,3 +19,4 @@ colors = [ 'ginger']
 colors = ['blonde']
 <line/img width by 4></line/img width by 4>
 <line/img height by 6></line/img height by 6>
+<br> </br>
